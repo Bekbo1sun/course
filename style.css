@@ -1,3 +1,106 @@
 * {
   box-sizing: border-box;
 }
+body {
+  margin: 1px;
+  max-width: 1440px;
+}
+nav {
+  display: flex;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+  margin-right: auto;
+}
+nav ul li {
+  padding: 10px;
+}
+
+.image1 {
+  margin-right: 520px;
+}
+.img {
+  background-image: url(./IMAGE2.png);
+  height: 698px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-1 {
+  max-width: 440px;
+  text-align: center;
+  color: white;
+}
+.smilye {
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+header {
+  display: flex;
+}
+header img {
+  width: 360px;
+  height: 320px;
+}
+.container-2 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.img1 {
+  width: 810px;
+  height: 542px;
+}
+.text {
+  display: flex;
+  justify-content: center;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+.header img {
+  margin-left: 10px;
+}
+.log {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+h3, h6, h4, p {
+  font-family: "Cardo", sanf;
+  font-weight: 400;
+}
+h3 {
+  font-style: italic;
+  font-size: 18px;
+}
+h1 {
+  font-family: "Roboto" sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+h4 {
+  font-size: 15px;
+  color: #bc1414;
+}
+p {
+  font-size: 18px;
+  color: #525252;
+}
+h6 {
+  font-size: 16px;
+  color: #54595f;
+}
+h5 {
+  font-size: 17px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+}
+.text-left{
+  display: block;
+  text-align: right;
+}
