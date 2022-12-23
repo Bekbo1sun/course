@@ -5,6 +5,36 @@ body {
   margin: 1px;
   max-width: 1440px;
 }
+h3, h6, h4, p {
+  font-family: "Cardo", sanf;
+  font-weight: 400;
+}
+h3 {
+  font-style: italic;
+  font-size: 18px;
+}
+h1 {
+  font-family: "Roboto" sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+}
+h4 {
+  font-size: 15px;
+  color: #bc1414;
+}
+p {
+  font-size: 18px;
+  color: #525252;
+}
+h6 {
+  font-size: 16px;
+  color: #54595f;
+}
+h5 {
+  font-size: 17px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+}
 nav {
   display: flex;
 }
@@ -31,11 +61,17 @@ nav ul li {
   max-width: 440px;
   text-align: center;
   color: white;
+  font-size: 27px;
+  font-weight: 700;
+}
+ div .text-1 p {
+  font-family: 'Cardo', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #FFFFFF;
 }
 .smilye {
   margin: 20px;
-  display: flex;
-  justify-content: space-around;
 }
 header {
   display: flex;
@@ -43,11 +79,6 @@ header {
 header img {
   width: 360px;
   height: 320px;
-}
-.container-2 {
-  margin-top: 50px;
-  display: flex;
-  justify-content: space-between;
 }
 .img1 {
   width: 810px;
@@ -58,6 +89,7 @@ header img {
   justify-content: center;
 }
 header {
+  margin-top: 80px;
   display: flex;
   justify-content: center;
 }
@@ -69,38 +101,52 @@ header {
   justify-content: center;
   margin-top: 20px;
 }
-h3, h6, h4, p {
-  font-family: "Cardo", sanf;
-  font-weight: 400;
-}
-h3 {
-  font-style: italic;
-  font-size: 18px;
-}
-h1 {
-  font-family: "Roboto" sans-serif;
-  font-weight: 700;
-  font-size: 32px;
-  color: #000000;
-}
-h4 {
-  font-size: 15px;
-  color: #bc1414;
-}
-p {
-  font-size: 18px;
-  color: #525252;
-}
-h6 {
-  font-size: 16px;
-  color: #54595f;
-}
-h5 {
-  font-size: 17px;
-  font-weight: 400;
-  font-family: 'Roboto', sans-serif;
-}
-.text-left{
+.text {
   display: block;
+  text-align: center;
+  margin-top: 136px;
+}
+section div h6{
+  font-size: 20px;
+}
+section .section-img {
+  max-width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+.image-right img {
+  width: 960px;
+  height: 542px;
+  object-fit: cover;
+}
+.img-description-1 {
+  padding: 30px;
   text-align: right;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+.image-left img {
+  width: 960px;
+  height: 542px;
+  object-fit: cover;
+}
+.img-description-2 {
+  padding: 30px;
+  text-align: left;
+}
+section div p, h6 {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 40px;
+}
+section img {
+  margin-top: 40px;
 }
