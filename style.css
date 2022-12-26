@@ -71,7 +71,12 @@ nav ul li {
   color: #FFFFFF;
 }
 .smilye {
-  margin: 20px;
+  margin: 16px;
+  display: flex;
+}
+.smilye-1 {
+  display: flex;
+  justify-content: space-around;
 }
 header {
   display: flex;
@@ -81,7 +86,7 @@ header img {
   height: 320px;
 }
 .img1 {
-  width: 810px;
+  width: 10px;
   height: 542px;
 }
 .text {
@@ -119,13 +124,14 @@ section .section-img {
   margin-top: 40px;
 }
 .image-right img {
-  width: 960px;
+  width: 950px;
   height: 542px;
   object-fit: cover;
 }
 .img-description-1 {
-  padding: 30px;
   text-align: right;
+  padding: 30px;
+  margin: 0;
 }
 
 .row {
@@ -133,14 +139,16 @@ section .section-img {
   justify-content: space-around;
 }
 .image-left img {
-  width: 960px;
+  width: 950px;
   height: 542px;
   object-fit: cover;
 }
 .img-description-2 {
-  padding: 30px;
   text-align: left;
+  padding: 30px;
+  margin: 0;
 }
+
 section div p, h6 {
   width: 70%;
   margin: 0 auto;
