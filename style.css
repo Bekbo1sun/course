@@ -156,3 +156,22 @@ section img {
   font-size: 20px;
   color: #454545;
 }
+.footer {
+  display: flex;
+}
+.reference {
+  display: flex;
+  text-align: center;
+}
+.reference div {
+  margin-left: 10px;
+}
+.search {
+  margin-left: 210px;
+}
+.search-img {
+  display: flex;
+}
+.footer {
+  margin: 160px;
+}
