@@ -145,6 +145,7 @@ section div p, h6 {
   margin: 0 auto;
   text-align: center;
   margin-top: 40px;
+  font-style: italic;
 }
 section img {
   margin-top: 40px;
