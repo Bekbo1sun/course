@@ -146,6 +146,9 @@ section div p, h6 {
   text-align: center;
   margin-top: 40px;
   font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  color: #020202;
 }
 section img {
   margin-top: 40px;
