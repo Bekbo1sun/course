@@ -101,6 +101,7 @@ header {
   text-align: center;
   margin-top: 136px;
 }
+
 section div h6{
   font-size: 20px;
 }
@@ -140,7 +141,7 @@ section img {
   margin: 0;
 }
 
-section div p, h6 {
+.text-section div p, h6 {
   width: 70%;
   margin: 0 auto;
   text-align: center;
