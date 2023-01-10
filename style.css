@@ -107,6 +107,13 @@ header {
   font-weight: 700;
   color: #3A3A3A;
 }
+.text h3 {
+  font-family: 'Cardo'
+  sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+}
 section div h6{
   font-size: 20px;
 }
