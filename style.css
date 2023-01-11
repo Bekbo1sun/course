@@ -198,6 +198,12 @@ section img {
   font-family: 'Cardo' sans-serif;
   color: #54595F;
 }
+.img-description-2 h2 {
+  color:#000000;
+  font-family: 'Roboto' sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+}
 .row {
   display: flex;
   justify-content: space-around;
