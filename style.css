@@ -173,6 +173,7 @@ section img {
   font-family: 'Roboto' sans-serif;
   font-weight: 400;
   font-size: 17px;
+  text-decoration: underline;
 }
 
 .img-description-2 h3 {
