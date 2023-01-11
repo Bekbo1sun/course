@@ -149,6 +149,12 @@ section img {
   font-family: 'Cardo' sans-serif;
   color: #000000;
 }
+.img-description-2 h6 {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Cardo' sans-serif;
+  color: #54595F;
+}
 .img-description-2 h3 {
   font-size: 19px;
   font-weight: 400;
