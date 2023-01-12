@@ -39,10 +39,6 @@ nav ul li {
   color: #FFFFFF;
   text-decoration: underline;
 }
-.text {
-  display: flex;
-  justify-content: center;
-}
 header {
   margin-top: 80px;
   display: flex;
