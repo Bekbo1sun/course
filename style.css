@@ -6,7 +6,6 @@ body {
   max-width: 1440px;
   color: #F7F7F7;
 }
-
 nav {
   display: flex;
 }
@@ -18,7 +17,6 @@ nav ul {
 nav ul li {
   padding: 10px;
 }
-
 .image1 {
   margin-right: 520px;
 }
