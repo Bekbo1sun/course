@@ -39,10 +39,6 @@ nav ul li {
   color: #FFFFFF;
   text-decoration: underline;
 }
-.smilye div {
-  display: flex;
-  align-content: center;
-}
 .text {
   display: flex;
   justify-content: center;
