@@ -46,6 +46,7 @@ header {
 }
 .header img {
   margin-left: 10px;
+  width: 25%;
 }
 .log {
   display: flex;
