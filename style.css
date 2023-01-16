@@ -210,6 +210,9 @@ section img {
   color: #020202;
 }
 .buttom-header {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
 }
 section img {
   margin-top: 40px;
