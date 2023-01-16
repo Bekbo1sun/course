@@ -214,9 +214,6 @@ section img {
   display: flex;
   justify-content: center;
 }
-.buttom-header img {
-  width: 25%;
-}
 section img {
   margin-top: 40px;
 }
