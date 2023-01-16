@@ -46,7 +46,6 @@ header {
 }
 .header img {
   margin-left: 10px;
-  width: 25%;
 }
 .log {
   display: flex;
@@ -199,6 +198,7 @@ section img {
   padding-left: 20px;
   margin: 0;
 }
+
 .text-section div p, h6 {
   width: 70%;
   margin: 0 auto;
@@ -208,11 +208,6 @@ section img {
   font-weight: 400;
   font-size: 20px;
   color: #020202;
-}
-.buttom-header {
-  margin-top: 80px;
-  display: flex;
-  justify-content: center;
 }
 section img {
   margin-top: 40px;
