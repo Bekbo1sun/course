@@ -220,6 +220,10 @@ section img {
 .footer {
   display: flex;
 }
+.header-bottom1 {
+ color: #FFFFFF;
+ width: 25%;
+}
 .reference {
   display: flex;
   text-align: center;
