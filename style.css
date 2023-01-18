@@ -233,6 +233,10 @@ section img {
   display: flex;
   justify-content: center;
 }
+.section-img-bottom img {
+  margin-left: 10px;
+  width: 25%;
+}
 .reference {
   display: flex;
   text-align: center;
