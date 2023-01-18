@@ -224,6 +224,10 @@ section img {
  color: #FFFFFF;
  width: 25%;
 }
+.header-bottom2 {
+ color: #F8F8F8;
+ width: 25%;
+}
 .reference {
   display: flex;
   text-align: center;
