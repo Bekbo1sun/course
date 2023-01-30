@@ -153,3 +153,12 @@ section img {
   font-style: italic;
   color: #bc1414;
 }
+.img-description-2 h6 {
+  color: #000000;
+  font-family: "Cardo" sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  margin: 0;
+}
