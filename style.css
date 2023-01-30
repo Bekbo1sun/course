@@ -108,7 +108,7 @@ section img {
   font-weight: 400;
   font-size: 15px;
   font-style: normal;
-  text-align: right;
+  text-align: end;
 }
 .img-description-1 h1 {
   font-family: "Roboto" sans-serif;
@@ -169,8 +169,9 @@ section img {
   font-weight: 400;
   font-size: 15px;
   font-style: normal;
-  text-align: left;
+  text-align: start;
   margin: 0;
+
 }
 .img-description-2 p {
   font-size: 18px;
