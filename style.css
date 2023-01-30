@@ -20,3 +20,10 @@ nav ul li {
 .image1 {
   margin-right: 520px;
 }
+.back-img {
+  background-image: url(./IMAGE2.png);
+  height: 698px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
