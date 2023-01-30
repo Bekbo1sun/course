@@ -43,6 +43,7 @@ nav ul li a {
   border: 1px solid white;
   background-color: transparent;
   color: white;
+  padding: 0.5rem 1.5rem;
 }
 header {
   margin-top: 80px;
