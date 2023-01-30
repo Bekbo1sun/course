@@ -14,3 +14,6 @@ nav ul {
   display: flex;
   margin-right: auto;
 }
+nav ul li {
+  padding: 10px;
+}
