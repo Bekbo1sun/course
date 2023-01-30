@@ -141,6 +141,7 @@ section img {
   font-weight: 400;
   font-size: 17px;
   text-decoration: underline;
+  cursor: pointer;
 }
 .img-description-2 h3 {
   font-size: 18px;
@@ -189,6 +190,8 @@ section img {
   font-weight: 400;
   font-size: 17px;
   text-decoration: underline;
+  
+cursor: pointer;
 }
 .row {
   display: flex;
