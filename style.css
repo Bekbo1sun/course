@@ -114,3 +114,15 @@ section img {
   font-style: italic;
   color: #000000;
 }
+.img-description-1 p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Cardo" sans-serif;
+  color: #54595f;
+}
+.img-description-1 h5 {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Cardo" sans-serif;
+  color: #54595f;
+}
