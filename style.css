@@ -44,3 +44,6 @@ header {
   display: flex;
   justify-content: center;
 }
+.header img {
+  margin-left: 10px;
+}
