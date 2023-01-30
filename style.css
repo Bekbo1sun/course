@@ -42,6 +42,7 @@ nav ul li a {
   font-family: "Cardo", sans-serif;
   border: 1px solid white;
   background-color: transparent;
+  color: white;
 }
 header {
   margin-top: 80px;
