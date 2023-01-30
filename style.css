@@ -210,3 +210,10 @@ h6 {
 section img {
   margin-top: 40px;
 }
+.section div h6 {
+  margin-top: 140px;
+  font-family: "Cardo", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #454545;
+}
