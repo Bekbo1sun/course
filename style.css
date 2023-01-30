@@ -40,10 +40,8 @@ nav ul li a {
 }
 .text-1 button {
   font-family: "Cardo", sans-serif;
-  font-size: 20px;
-  font-weight: 700;
-  color: #ffffff;
-  text-decoration: underline;
+  border: 1px solid white;
+  background-color: transparent;
 }
 header {
   margin-top: 80px;
