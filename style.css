@@ -171,7 +171,6 @@ section img {
   font-style: normal;
   text-align: start;
   margin: 0;
-
 }
 .img-description-2 p {
   font-size: 18px;
@@ -191,8 +190,8 @@ section img {
   font-weight: 400;
   font-size: 17px;
   text-decoration: underline;
-  
-cursor: pointer;
+
+  cursor: pointer;
 }
 .row {
   display: flex;
