@@ -53,3 +53,21 @@ header {
   margin-top: 20px;
   width: 100%;
 }
+.text {
+  display: block;
+  text-align: center;
+  margin-top: 106px;
+}
+.text h1 {
+  font-family: "Cardo" sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #3a3a3a;
+}
+.text h3 {
+  font-family: "Cardo" sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+  font-style: normal;
+}
