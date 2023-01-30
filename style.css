@@ -5,7 +5,6 @@ body {
   margin: 1px;
   max-width: 1440px;
   color: #F7F7F7;
-  overflow-x: hidden;
 }
 nav {
   display: flex;
