@@ -133,3 +133,10 @@ section img {
   font-size: 17px;
   text-decoration: underline;
 }
+.img-description-2 h3 {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Cardo" sans-serif;
+  font-style: italic;
+  color: #000000;
+}
