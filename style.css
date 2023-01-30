@@ -146,3 +146,10 @@ section img {
   font-size: 32px;
   color: #000000;
 }
+.img-description-1 h4 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Cardo" sans-serif;
+  font-style: italic;
+  color: #bc1414;
+}
