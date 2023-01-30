@@ -140,3 +140,9 @@ section img {
   font-style: italic;
   color: #000000;
 }
+.img-description-2 h1 {
+  font-family: "Roboto" sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
