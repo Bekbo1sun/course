@@ -126,3 +126,10 @@ section img {
   font-family: "Cardo" sans-serif;
   color: #54595f;
 }
+.img-description-1 h2 {
+  color: #000000;
+  font-family: "Roboto" sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  text-decoration: underline;
+}
