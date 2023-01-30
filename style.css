@@ -17,6 +17,9 @@ nav ul {
 nav ul li {
   padding: 10px;
 }
+nav ul li a {
+  text-decoration: none;
+}
 .image1 {
   margin-right: 520px;
 }
