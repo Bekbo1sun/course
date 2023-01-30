@@ -20,7 +20,7 @@ nav ul li {
 .image1 {
   margin-right: 520px;
 }
-.back-img {
+.img {
   background-image: url(./IMAGE2.png);
   height: 698px;
   display: flex;
@@ -33,10 +33,10 @@ nav ul li {
   color: white;
 }
 .text-1 p {
-  font-family: "Cardo", sans-serif;
+  font-family: 'Cardo', sans-serif;
   font-size: 20px;
   font-weight: 700;
-  color: #ffffff;
+  color: #FFFFFF;
   text-decoration: underline;
 }
 header {
@@ -59,19 +59,20 @@ header {
   margin-top: 106px;
 }
 .text h1 {
-  font-family: "Cardo" sans-serif;
+  font-family: 'Cardo' sans-serif;
   font-size: 30px;
   font-weight: 700;
-  color: #3a3a3a;
+  color: #3A3A3A;
 }
 .text h3 {
-  font-family: "Cardo" sans-serif;
+  font-family: 'Cardo'
+  sans-serif;
   font-size: 18px;
   font-weight: 400;
   color: #000000;
   font-style: normal;
 }
-section div h6 {
+section div h6{
   font-size: 20px;
 }
 section img {
@@ -94,15 +95,15 @@ section img {
   margin: 0;
 }
 .img-description-1 h6 {
-  color: #000000;
-  font-family: "Cardo" sans-serif;
+  color:#000000;
+  font-family: 'Cardo' sans-serif;
   font-weight: 400;
   font-size: 15px;
   font-style: normal;
   text-align: right;
 }
 .img-description-1 h1 {
-  font-family: "Roboto" sans-serif;
+  font-family: 'Roboto' sans-serif;
   font-weight: 700;
   font-size: 32px;
   color: #000000;
@@ -110,25 +111,25 @@ section img {
 .img-description-1 h3 {
   font-size: 18px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
+  font-family: 'Cardo' sans-serif;
   font-style: italic;
   color: #000000;
 }
 .img-description-1 p {
   font-size: 18px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
-  color: #54595f;
+  font-family: 'Cardo' sans-serif;
+  color: #54595F;
 }
 .img-description-1 h5 {
   font-size: 15px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
-  color: #54595f;
+  font-family: 'Cardo' sans-serif;
+  color: #54595F;
 }
 .img-description-1 h2 {
-  color: #000000;
-  font-family: "Roboto" sans-serif;
+  color:#000000;
+  font-family: 'Roboto' sans-serif;
   font-weight: 400;
   font-size: 17px;
   text-decoration: underline;
@@ -136,12 +137,12 @@ section img {
 .img-description-2 h3 {
   font-size: 18px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
+  font-family: 'Cardo' sans-serif;
   font-style: italic;
   color: #000000;
 }
 .img-description-2 h1 {
-  font-family: "Roboto" sans-serif;
+  font-family: 'Roboto' sans-serif;
   font-weight: 700;
   font-size: 32px;
   color: #000000;
@@ -149,13 +150,13 @@ section img {
 .img-description-1 h4 {
   font-size: 14px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
+  font-family: 'Cardo' sans-serif;
   font-style: italic;
-  color: #bc1414;
+  color: #BC1414;
 }
 .img-description-2 h6 {
-  color: #000000;
-  font-family: "Cardo" sans-serif;
+  color:#000000;
+  font-family: 'Cardo' sans-serif;
   font-weight: 400;
   font-size: 15px;
   font-style: normal;
@@ -165,18 +166,18 @@ section img {
 .img-description-2 p {
   font-size: 18px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
-  color: #54595f;
+  font-family: 'Cardo' sans-serif;
+  color: #54595F;
 }
 .img-description-2 h5 {
   font-size: 15px;
   font-weight: 400;
-  font-family: "Cardo" sans-serif;
-  color: #54595f;
+  font-family: 'Cardo' sans-serif;
+  color: #54595F;
 }
 .img-description-2 h2 {
-  color: #000000;
-  font-family: "Roboto" sans-serif;
+  color:#000000;
+  font-family: 'Roboto' sans-serif;
   font-weight: 400;
   font-size: 17px;
   text-decoration: underline;
@@ -196,8 +197,7 @@ section img {
   padding-left: 20px;
   margin: 0;
 }
-.text-section div p,
-h6 {
+.text-section div p, h6 {
   width: 70%;
   margin: 0 auto;
   text-align: center;
@@ -212,7 +212,7 @@ section img {
 }
 .section div h6 {
   margin-top: 140px;
-  font-family: "Cardo", sans-serif;
+  font-family: 'Cardo', sans-serif;
   font-weight: 400;
   font-size: 20px;
   color: #454545;
