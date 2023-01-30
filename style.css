@@ -185,3 +185,8 @@ section img {
   display: flex;
   justify-content: space-around;
 }
+.image-left img {
+  width: 930px;
+  height: 542px;
+  object-fit: cover;
+}
