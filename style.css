@@ -139,7 +139,7 @@ section img {
   font-family: "Cardo" serif;
   color: #54595f;
 }
-.img-description-1 h2 {
+.img-description-1 a {
   color: #000000;
   font-family: "Roboto" sans-serif;
   font-weight: 400;
@@ -188,7 +188,7 @@ section img {
   font-family: "Cardo" serif;
   color: #54595f;
 }
-.img-description-2 h2 {
+.img-description-2 a {
   color: #000000;
   font-family: "Roboto" sans-serif;
   font-weight: 400;
