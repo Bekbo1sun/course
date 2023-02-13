@@ -36,8 +36,11 @@ nav ul li a {
 }
 .text-1 {
   max-width: 640px;
-  text-align: center;
   color: white;
+  font-family: "Roboto" sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
 }
 .text-1 button {
   font-family: "Cardo", serif;
