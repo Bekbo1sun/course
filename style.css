@@ -88,7 +88,7 @@ section div h6 {
 section img {
   width: 100%;
 }
-.row {
+.row-img {
   display: flex;
   justify-content: space-around;
   margin-top: 40px;
@@ -244,11 +244,9 @@ section img {
   display: flex;
   flex-wrap: wrap;
 }
-[class^="col"] {
-  padding: 0 0.5rem;
-}
 .col {
   flex: 1 1 0;
+  padding: 0 0.5rem;
 }
 .col-1 {
   flex: 0 0 8.333333%;
