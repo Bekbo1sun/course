@@ -66,6 +66,31 @@ header {
   margin-top: 20px;
   width: 100%;
 }
+
+
+.row-text {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.row-image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.img-under-header-1 {
+  display: flex;
+  padding-right: 10px;
+}
+.col-3-img p {
+  color: #000000;
+}
+
+.col-3-img {
+  display: flex;
+  padding-left: 71px;
+  align-items: center;
+}
 .text {
   display: block;
   text-align: center;
